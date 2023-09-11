@@ -1,0 +1,16 @@
+#html{
+  text-align: left;
+  text-transform: uppercase;
+  line-height: 25px;
+}
+#css{
+  text-align: center;
+  color: red;
+  text-transform: capitalize;
+  line-height: 25px;
+}
+#js{
+  color: green;
+  text-transform: lowercase;
+  
+}
